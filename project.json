@@ -4,11 +4,13 @@
   "description": "Processus vierge",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.3]",
-    "UiPath.Mail.Activities": "[1.23.11]",
-    "UiPath.System.Activities": "[24.10.6]",
-    "UiPath.Testing.Activities": "[24.10.3]",
-    "UiPath.UIAutomation.Activities": "[24.10.6]"
+    "UiPath.CommunicationsMining.Activities": "1.2.2",
+    "UiPath.Excel.Activities": "[2.24.4]",
+    "UiPath.FlowchartBuilder.Activities": "[1.0.1]",
+    "UiPath.Mail.Activities": "[1.24.13]",
+    "UiPath.System.Activities": "[25.2.1]",
+    "UiPath.Testing.Activities": "[24.10.4]",
+    "UiPath.UIAutomation.Activities": "[24.10.11]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -50,7 +52,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "2334c646-c2a3-4e18-86ab-f89d67607563",
+      "uniqueId": "aaaa8469-dc8c-4a70-969c-f9c1380d6adc",
       "input": [],
       "output": []
     }
